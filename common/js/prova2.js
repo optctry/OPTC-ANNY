@@ -8,8 +8,6 @@ var myimages = [
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0021.png", probability: 0.00000},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0071.png", probability: 0.00000},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0201.png", probability: 0.00000},
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0203.png", probability: 0.00000},
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0205.png", probability: 0.00000},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0207.png", probability: 0.00000},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0222.png", probability: 0.00000},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0499.png", probability: 0.00000},
@@ -47,8 +45,6 @@ var myimages = [
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0072.png", probability: 0.01395},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0073.png", probability: 0.01395},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0202.png", probability: 0.01395},
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0204.png", probability: 0.01395},
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0206.png", probability: 0.01395},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0208.png", probability: 0.01395},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0225.png", probability: 0.01395},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0500.png", probability: 0.01395},
@@ -377,9 +373,9 @@ var myimages = [
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1570.png", probability: 0.00145},
 // NO IMAGES
 { image: "http://img.pixady.com/2017/05/134113_character1702t1.png", probability: 0.01540}, // g4
-{ image: "http://img.pixady.com/2017/05/935107_character1735t1.png", probability: 0.00913}, // sanji
+{ image: "http://img.pixady.com/2017/05/935107_character1735t1.png", probability: 0.02308}, // sanji
 // SPECIALS
-{ image: "http://img.pixady.com/2017/05/116579_character1734t1.png", probability: 0.00145}, //hancock
+{ image: "http://img.pixady.com/2017/05/116579_character1734t1.png", probability: 0.01540}, //hancock
 { image: "http://img.pixady.com/2017/05/207624_character1732t1.png", probability: 0.00145}, // shanks
 ];
 
