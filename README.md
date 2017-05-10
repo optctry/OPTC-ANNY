@@ -47,6 +47,8 @@
 <td style="width: 45px; height: 45px"><center><script src="./common/js/prova2.js"></script></td>
 <td style="width: 45px; height: 45px"><center><script src="./common/js/prova2.js"></script></td>
 <td style="width: 45px; height: 45px"><center><script src="./common/js/prova2.js"></script></td>
+</tr>
+<tr>
 <td style="width: 45px; height: 45px"><center><script src="./common/js/prova2.js"></script></td>
 <td style="width: 45px; height: 45px"><center><script src="./common/js/prova2.js"></script></td>
 <td style="width: 45px; height: 45px"><center><script src="./common/js/prova2.js"></script></td>
