@@ -373,10 +373,10 @@ var myimages = [
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1570.png", probability: 0.00145},
 // NO IMAGES
 { image: "http://img.pixady.com/2017/05/134113_character1702t1.png", probability: 0.01540}, // g4
-{ image: "http://img.pixady.com/2017/05/935107_character1735t1.png", probability: 0.02308}, // sanji
+{ image: "http://img.pixady.com/2017/05/935107_character1735t1.png", probability: 0.01154}, // sanji
 // SPECIALS
 { image: "http://img.pixady.com/2017/05/116579_character1734t1.png", probability: 0.01540}, //hancock
-{ image: "http://img.pixady.com/2017/05/207624_character1732t1.png", probability: 0.00145}, // shanks
+{ image: "http://img.pixady.com/2017/05/207624_character1732t1.png", probability: 0.01299}, // shanks
 ];
 
 function getImage() {
