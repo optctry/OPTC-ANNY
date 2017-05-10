@@ -67,7 +67,7 @@
 </table>
 
 <br><hr>
-<center><h3>Fatto da _Not_ per <a href="http://one-piece-treasure-cruise-italia.forumfree.it">OPTC ITA</a></h3></center>
+<center><h3>Fatto da _Not_ per <a href="https://twitter.com/JapanUberAlles">JUA</a></h3></center>
 
 <!-- End here -->
 </body>
