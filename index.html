@@ -15,13 +15,13 @@
 <table style="margin-left: auto; margin-right: auto;" border="0" cellspacing="0" cellpadding="13">
 <tbody>
 <tr>
-<td class="legend"><center>★★★★★★: <del>5% - 0.0015%</del>  a personaggio</center></td>
+<td class="legend"><center>★★★★★★: 5% - 0.0015%</del>  a personaggio</center></td>
 </tr>
 <tr>
-<td class="gold"><center>★★★★★/★★★★: <del>43% - 0.09400% : 0.43800%</del> a personaggio</center></td>
+<td class="gold"><center>★★★★★/★★★★: 43% - 0.09400% : 0.43800%</del> a personaggio</center></td>
 </tr>
 <tr>
-<td class="silver"><center>★★★: <del>52% - 1.37500%</del> 0% a personaggio</center></td>
+<td class="silver"><center>★★★: 52% - 1.37500%</del> 0% a personaggio</center></td>
 </tr>
 </tbody>
 </table><hr>
@@ -34,8 +34,8 @@
 </tr>
 </tbody>
 </table>
-<br><br><center><hr><img src="http://news.onepiece-tc.jp/images/banner/app_banner_sugofes_69_QUNynQ3sRn.png"></center>
-<br><center><hr><img src="http://news.onepiece-tc.jp/images/banner/app_banner_gasha_skill_16_RcqrVkzrpQ.png"><hr></center><br>
+<br><br><center><hr><img src="http://news.onepiece-tc.jp/images/banner/app_banner_sugofes_72_YKSOamkAYW.png"></center>
+<br><center><hr><img src="http://news.onepiece-tc.jp/images/banner/app_banner_gasha_speed_16_GBQ1bXxKwa.png"><hr></center><br>
 
 <center><h2><form><input id="button" type="button" class="button" value="RECRUIT 10+1" onclick="window.location.reload(true)"></form></h2></center>
 
