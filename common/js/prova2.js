@@ -349,36 +349,36 @@ var myimages = [
 { image: "https://s10.postimg.org/q7te6du7d/character_1779_t1.png", probability: 0.00191},
 { image: "https://s10.postimg.org/kxt0stzc9/character_1780_t1.png", probability: 0.00191},
 // REAL LEGENDS
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0260.png", probability: 0.00476}, si
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0366.png", probability: 0.00476}, si
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0415.png", probability: 0.00476}, si
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0458.png", probability: 0.00476}, si
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0529.png", probability: 0.00476}, si
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0260.png", probability: 0.00476}, 
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0366.png", probability: 0.00476},
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0415.png", probability: 0.00476},
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0458.png", probability: 0.00476},
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0529.png", probability: 0.00476},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0561.png", probability: 0.00000},
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0648.png", probability: 0.00476}, si
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0668.png", probability: 0.00476}, si
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0648.png", probability: 0.00476},
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0668.png", probability: 0.00476},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0717.png", probability: 0.0},
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0719.png", probability: 0.00476}, si
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0747.png", probability: 0.00476}, si
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0869.png", probability: 0.00476}, si
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0934.png", probability: 0.00476}, si
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1000.png", probability: 0.00476}, si
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1034.png", probability: 0.00476}, si
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0719.png", probability: 0.00476},
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0747.png", probability: 0.00476},
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0869.png", probability: 0.00476},
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f0934.png", probability: 0.00476}, 
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1000.png", probability: 0.00476}, 
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1034.png", probability: 0.00476}, 
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1044.png", probability: 0.0},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1084.png", probability: 0.0},
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1120.png", probability: 0.00476}, si
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1120.png", probability: 0.00476}, 
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1122.png", probability: 0.0},
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1191.png", probability: 0.00476}, si
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1191.png", probability: 0.00476}, 
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1239.png", probability: 0.0},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1267.png", probability: 0.0},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1313.png", probability: 0.0},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1361.png", probability: 0.0},
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1390.png", probability: 0.0},
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1403.png", probability: 0.00476}, si
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1403.png", probability: 0.00476}, 
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1433.png", probability: 0.0},
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1472.png", probability: 0.00476}, si
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1472.png", probability: 0.00476}, 
 { image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1531.png", probability: 0.0},
-{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1570.png", probability: 0.00476}, si
+{ image: "https://onepiece-treasurecruise.com/wp-content/uploads/f1570.png", probability: 0.00476}, 
 { image: "http://img.pixady.com/2017/05/134113_character1702t1.png", probability: 0.00476}, // g4 si
 { image: "http://img.pixady.com/2017/05/935107_character1735t1.png", probability: 0.00476}, // sanji si
 { image: "https://s17.postimg.org/gnosooky7/character_1751_t1.png", probability: 0.00476}, // ENERU Si 
